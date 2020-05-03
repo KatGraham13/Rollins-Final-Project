@@ -191,3 +191,9 @@ def game():
 if __name__ == "__main__":
     game()
 ```
+
+
+### Thank You 
+Thank You for a great semester. Also upload direct flies of my code from my mimir because at first I could not get github to upload my code properly and it was confusing to firgure out. But I got it to work in the end I think. 
+Thank you and stay health and safe during these hard times. 
+
