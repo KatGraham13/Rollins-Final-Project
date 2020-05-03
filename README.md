@@ -197,3 +197,6 @@ if __name__ == "__main__":
 Thank You for a great semester. Also upload direct flies of my code from my mimir because at first I could not get github to upload my code properly and it was confusing to firgure out. But I got it to work in the end I think. 
 Thank you and stay health and safe during these hard times. 
 
+ALSO I NEVER KNEW TRYING TO MAKE A FOLDER ON GITHUB WOULD BE SO HARD TO FIRGURE OUT BUT THEN BE SOME SO SIMPLE. 
+
+Anyways have a get summer. 
