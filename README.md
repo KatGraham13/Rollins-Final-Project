@@ -199,4 +199,4 @@ Thank you and stay health and safe during these hard times.
 
 ALSO I NEVER KNEW TRYING TO MAKE A FOLDER ON GITHUB WOULD BE SO HARD TO FIRGURE OUT BUT THEN BE SOME SO SIMPLE. 
 
-Anyways have a get summer. 
+Anyways have a great summer. 
